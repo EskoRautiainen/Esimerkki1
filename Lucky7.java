@@ -14,7 +14,7 @@ public class Lucky7 {
                     int randomNumber2;
                     int randomNumber3;
                     String valinta;
-                    String correctName = "Asko";
+                    String correctName = "Esko";
                     
                 
                     
